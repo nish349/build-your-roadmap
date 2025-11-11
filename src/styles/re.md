@@ -44,11 +44,15 @@ My Full Stack Development Roadmap & Toolkit
 -  **Python**
 
    -  **Django** → Batteries-included web framework for rapid development
+     
    -  **FastAPI** → Modern async framework for high-performance APIs
 
 -  **Golang**
 
    -  **Go** → For microservices, CLI tools, and low-latency systems
+ 
+- **Java**
+  - **Springboot* → A powerful Java framework that simplifies building and deploying production-ready, enterprise-grade applications with minimal configuration.
 
 #### ⚙️ API Design
 
